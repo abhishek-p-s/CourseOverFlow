@@ -1,0 +1,48 @@
+.home-container{
+background:url('../images/book_image.jpg') center  no-repeat;
+height: 100vh;
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+object-fit: contain;
+}
+
+.slogen{
+    color:white;
+    font-size: 20px;
+    margin-top: 60px;
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.para{
+    color: white;
+    font-size:17px ;
+    margin-right: 22rem;
+    margin-top: 4rem;
+
+}
+.btns{
+    margin: 6px;
+    padding: 2rem;
+}
+.text{
+    height: 4rem;
+    background: transparent;
+   width: 25rem;
+   font-family: sans-serif;
+   color: white;
+   font-size: medium;
+}
+.board{
+    background-color:black;
+    margin-top: 20rem;
+    margin-left: 40rem;
+}
+.btn{
+    background-color: cadetblue;
+    width: 6rem;
+    height: 4rem;
+    font-family: sans-serif;
+}
