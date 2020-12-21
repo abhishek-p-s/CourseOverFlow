@@ -10,6 +10,7 @@ export default function Boarditem(props) {
                         <h4 className='cards__item__text'>{props.text}</h4>
                         <p className='cards__item__text'>{props.text2}</p>
                         <p className='cards__item__text'>{props.text3}</p>
+                      <Link to="view"><input type="button" value="view" className="view"></input></Link>  
                     </div>
                 </Link>
             </li>

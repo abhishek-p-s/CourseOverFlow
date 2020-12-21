@@ -119,3 +119,17 @@
       margin-bottom: 2rem;
     }
   }
+  .view{
+    
+    padding:4px;
+    margin-top: 3rem;
+    border-radius: 2rem;
+    width: 5rem;
+    height: 2rem;
+    border-color: black;
+    
+  }
+  .view:hover{
+    background-color: black;
+    color: blanchedalmond;
+  }
