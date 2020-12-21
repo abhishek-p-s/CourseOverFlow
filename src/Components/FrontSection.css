@@ -2,6 +2,7 @@
 background:url('../images/book_image.jpg') center  no-repeat;
 height: 100vh;
 width: 100%;
+background-size:cover;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -26,22 +27,22 @@ object-fit: contain;
 .btns{
     margin: 6px;
     padding: 2rem;
+    border: 0px;
 }
 .text{
-    height: 4rem;
-    background: transparent;
+    height: 3.8rem;
    width: 25rem;
    font-family: sans-serif;
-   color: white;
+   color:black;
    font-size: medium;
+   border: 0px;
 }
 .board{
-    background-color:black;
-    margin-top: 20rem;
+    margin-top:13rem;
     margin-left: 40rem;
 }
 .btn{
-    background-color: cadetblue;
+    background-color: #A9A9A9;
     width: 6rem;
     height: 4rem;
     font-family: sans-serif;
