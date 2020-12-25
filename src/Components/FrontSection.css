@@ -29,21 +29,27 @@ object-fit: contain;
     padding: 2rem;
     border: 0px;
 }
+
+.board{
+    margin-top:13rem;
+    margin-left: 40rem;
+}
 .text{
-    height: 3.8rem;
+    height: 4rem;
    width: 25rem;
    font-family: sans-serif;
    color:black;
    font-size: medium;
    border: 0px;
+   border-radius: 1rem;
 }
-.board{
-    margin-top:13rem;
-    margin-left: 40rem;
-}
+
 .btn{
-    background-color: #A9A9A9;
-    width: 6rem;
+    background-color:#2F4F4F;
+    width: 7rem;
+    color: white;
     height: 4rem;
     font-family: sans-serif;
+   
+    border: 0px;
 }

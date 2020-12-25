@@ -16,7 +16,7 @@ export default function Home() {
                 <h3 >Knowledge increases by sharing but not by saving</h3>
             </div>
             <div className="board">
-                <Board></Board>
+                <Board className="board"></Board>
             </div>
         </div >
     )

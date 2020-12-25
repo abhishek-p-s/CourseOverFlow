@@ -16,7 +16,7 @@ class Footter extends Component {
                                 <Link to="/about" className="nav-links" >About</Link>
                             </li>
                             <li className="nav-item">
-                                <Link to="/terms and conditions" className="nav-links">Terms & Conditions</Link>
+                                <Link to="/Termsandconditions" className="nav-links">Terms & Conditions</Link>
                             </li>
                         </ul>
                     </div>

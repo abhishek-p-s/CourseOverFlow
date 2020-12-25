@@ -1,0 +1,14 @@
+.paragraph{
+    padding: 5rem;
+    align-items: center;
+    line-height: normal;
+    line-height: 1.8;
+}
+.heading{
+    margin-left: 35rem;
+    font-size: 2rem;
+    padding: 2rem;
+}
+.background{
+    background-color:rgb(252, 233, 198);
+}

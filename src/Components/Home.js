@@ -9,7 +9,7 @@ export default function Home() {
         <>
             <FrontSection></FrontSection>
             <Cards></Cards>
-            <Footter></Footter>
+           
         </>
     )
 }
